@@ -1,0 +1,14 @@
+# Environment files
+.env
+
+# Data files (can be large)
+data/
+
+# Generated reports
+reports/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
